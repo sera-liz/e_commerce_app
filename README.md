@@ -1,17 +1,79 @@
-# e_commerce_app
+# 🛍️ Liz Shop - Flutter E-Commerce App
 
-A new Flutter project.
+A modern Flutter e-commerce application built with clean UI and Firebase integration. This project is developed as part of my Flutter learning journey and portfolio.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 🔍 Product Search
+- 📂 Product Categories
+- 👤 User Profile
+- 💳 Checkout Screen
+- 📱 Responsive UI
+- 🔥 Firebase Authentication (In Progress)
+- ☁️ Cloud Firestore (In Progress)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Firebase
+- Git & GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+> Screenshots will be added after completing the project.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Android Studio / VS Code
+- Dart SDK
+
+### Installation
+
+```bash
+git clone https://github.com/sera-liz/e_commerce_app.git
+```
+
+```bash
+cd e_commerce_app
+```
+
+```bash
+flutter pub get
+```
+
+```bash
+flutter run
+```
+
+## 📌 Project Status
+
+🚧 Currently under development.
+
+Completed:
+- ✅ UI Design
+- ✅ Navigation
+- ✅ Shopping Cart
+- ✅ Wishlist
+
+Upcoming:
+- 🔥 Firebase Authentication
+- ☁️ Cloud Firestore
+- 📦 Order History
+- 💳 Checkout Integration
+
+## 👩‍💻 Developer
+
+**Sera Liz David**
+
+- GitHub: https://github.com/sera-liz
+- LinkedIn: www.linkedin.com/in/sera-liz-david-6842a8327
+
+---
+
+⭐ If you like this project, feel free to star the repository!
