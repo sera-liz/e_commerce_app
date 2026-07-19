@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'E-Commerce UI',
       theme: ThemeData(
+        
         primarySwatch: Colors.purple,
       ),
       
