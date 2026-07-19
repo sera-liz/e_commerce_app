@@ -10,9 +10,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+  
       title: 'E-Commerce UI',
       theme: ThemeData(
-        
+
         primarySwatch: Colors.purple,
       ),
       
