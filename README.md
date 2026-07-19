@@ -21,9 +21,6 @@ A modern Flutter e-commerce application built with clean UI and Firebase integra
 - Firebase
 - Git & GitHub
 
-## 📸 Screenshots
-
-> Screenshots will be added after completing the project.
 
 ## 🚀 Getting Started
 
