@@ -102,16 +102,16 @@ Upcoming:
 
 ### 🛒 Checkout
 
-![Checkout](screenshots/checkout.png)
+![Checkout](screenshots/checkoutscreen.png)
 
 ---
 
 ### ✅ Order Success
 
-![Order Success](screenshots/order-success.png)
+![Order Success](screenshots/ordersuccess.png)
 
 ---
 
 ### 📍 Order Tracking
 
-![Order Tracking](screenshots/order-tracking.png)
+![Order Tracking](screenshots/ordertracking.png)
