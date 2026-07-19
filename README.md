@@ -108,10 +108,10 @@ Upcoming:
 
 ### ✅ Order Success
 
-![Order Success](screenshots/ordersuccess.png)
+![Order Success](screenshots/orderplacing.png)
 
 ---
 
 ### 📍 Order Tracking
 
-![Order Tracking](screenshots/ordertracking.png)
+![Order Tracking](screenshots/tracking.png)
