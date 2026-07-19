@@ -78,24 +78,40 @@ Upcoming:
 
 ### 🏠 Home Screen
 
-![Home](screenshots/homescreen.png)
+| Top | Bottom |
+|------|---------|
+| ![Home Top](screenshots/home-top.png) | ![Home Bottom](screenshots/home-bottom.png) |
+
+---
+
+### 👤 Profile Screen
+
+| Top | Bottom |
+|------|---------|
+| ![Profile Top](screenshots/profile-top.png) | ![Profile Bottom](screenshots/profile-bottom.png) |
+
+---
 
 ### ❤️ Wishlist
 
-![Wishlist](screenshots/wishlist.png)
+| Top | Bottom |
+|------|---------|
+| ![Wishlist Top](screenshots/wishlist-top.png) | ![Wishlist Bottom](screenshots/wishlist-bottom.png) |
 
-### 👤 Profile
-
-![Profile](screenshots/settings.png)
+---
 
 ### 🛒 Checkout
 
-![Checkout](screenshots/checkoutscreen.png)
+![Checkout](screenshots/checkout.png)
+
+---
 
 ### ✅ Order Success
 
-![Order Success](screenshots/orderplacing.png)
+![Order Success](screenshots/order-success.png)
+
+---
 
 ### 📍 Order Tracking
 
-![Tracking](screenshots/tracking.png)
+![Order Tracking](screenshots/order-tracking.png)
