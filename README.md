@@ -77,3 +77,28 @@ Upcoming:
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+![Home](screenshots/homescreen.png)
+
+### ❤️ Wishlist
+
+![Wishlist](screenshots/wishlist.png)
+
+### 👤 Profile
+
+![Profile](screenshots/settings.png)
+
+### 🛒 Checkout
+
+![Checkout](screenshots/checkoutscreen.png)
+
+### ✅ Order Success
+
+![Order Success](screenshots/orderplacing.png)
+
+### 📍 Order Tracking
+
+![Tracking](screenshots/tracking.png)
